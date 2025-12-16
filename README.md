@@ -1,2 +1,0 @@
-# shyamCypress
-Cypress certification

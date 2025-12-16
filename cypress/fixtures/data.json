@@ -1,0 +1,14 @@
+{
+    "name":"Vivek",
+    "email":"vvktiwari@gmail.com",
+    "password":"Password@1",
+    "company":"mw2",
+    "website": "https://www.mw2consulting.com/",
+    "Country":"India",
+    "city":"Delhi",
+    "address1": "Rohini",
+    "address2": "BSK",
+    "state":"delhi",
+    "zipcode":"560061",
+    "successMsg": "Thanks for contacting us, we will get back to you shortly."
+}
